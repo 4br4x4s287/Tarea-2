@@ -1,0 +1,14 @@
+C:\Users\leone\Documents\programacion.net\Ejercicio_POO\bin\Debug\net8.0\Ejercicio_POO.exe
+C:\Users\leone\Documents\programacion.net\Ejercicio_POO\bin\Debug\net8.0\Ejercicio_POO.deps.json
+C:\Users\leone\Documents\programacion.net\Ejercicio_POO\bin\Debug\net8.0\Ejercicio_POO.runtimeconfig.json
+C:\Users\leone\Documents\programacion.net\Ejercicio_POO\bin\Debug\net8.0\Ejercicio_POO.dll
+C:\Users\leone\Documents\programacion.net\Ejercicio_POO\bin\Debug\net8.0\Ejercicio_POO.pdb
+C:\Users\leone\Documents\programacion.net\Ejercicio_POO\obj\Debug\net8.0\Ejercicio_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\Documents\programacion.net\Ejercicio_POO\obj\Debug\net8.0\Ejercicio_POO.AssemblyInfoInputs.cache
+C:\Users\leone\Documents\programacion.net\Ejercicio_POO\obj\Debug\net8.0\Ejercicio_POO.AssemblyInfo.cs
+C:\Users\leone\Documents\programacion.net\Ejercicio_POO\obj\Debug\net8.0\Ejercicio_POO.csproj.CoreCompileInputs.cache
+C:\Users\leone\Documents\programacion.net\Ejercicio_POO\obj\Debug\net8.0\Ejercicio_POO.dll
+C:\Users\leone\Documents\programacion.net\Ejercicio_POO\obj\Debug\net8.0\refint\Ejercicio_POO.dll
+C:\Users\leone\Documents\programacion.net\Ejercicio_POO\obj\Debug\net8.0\Ejercicio_POO.pdb
+C:\Users\leone\Documents\programacion.net\Ejercicio_POO\obj\Debug\net8.0\Ejercicio_POO.genruntimeconfig.cache
+C:\Users\leone\Documents\programacion.net\Ejercicio_POO\obj\Debug\net8.0\ref\Ejercicio_POO.dll
